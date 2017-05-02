@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hide And Seek</string>
+    <string name="show">show</string>
+    <string name="hide">Hide</string>
+</resources>
